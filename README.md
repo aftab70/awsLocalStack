@@ -21,7 +21,7 @@ services:
 
 # Deployment of AWS LocalStack
 
-docker-compose up -d
+docker compose up -d
 
 # Verify the LocalStack Container 
 
